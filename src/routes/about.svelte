@@ -60,7 +60,7 @@ Mais rage, rage encor lorsque meurt la lumière.""
 
    <section class="offres" id="offres">
     <h1>J'aide les développeurs</h1>
-    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad dolore consectetur illum delectus excepturi voluptates, nostrum numquam fugiat quibusdam vel vero iure accusamus ab laborum cupiditate, sint rerum fugit natus</p>
+    <p>La tarification concernant les cours de programmation est à 60 euros de l'heure</p>
     
     <div class="offres-cartes">
         
