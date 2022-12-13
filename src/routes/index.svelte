@@ -6,7 +6,7 @@
     <nav>
 
         <div class="onglets">
-          <a>Mes sociétés</a>
+          <a href="/page">Mes sociétés</a>
           <a>Les créations</a>
           <a>Me contacter</a>
         </div>
